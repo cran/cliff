@@ -1,0 +1,10 @@
+09c0bc29defe8635c734ddce370a45c0 *DESCRIPTION
+e134ed75a276a837c7e3915d143a4f3b *LICENSE
+fdca15a6650d55000e5fd979c324a856 *NAMESPACE
+0173e7d778cdea04fa242292cfbcbec1 *R/cliff.R
+b5b98862f0d6776449acce519f9ee99d *R/utils.R
+627d1b1aa418267ab7523c0e84c24cfd *README.md
+011349daae18b2d9ef80cf7815bda188 *man/run.Rd
+1afcd39cd0528219f21405587c9659ec *tests/testthat.R
+8e9633c91c6513bbb60e7c85aef62216 *tests/testthat/helper-utils.R
+f9e49c100eb9a13561ea5d6bd4f23d9f *tests/testthat/test-git.R
